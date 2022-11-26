@@ -64,7 +64,7 @@
 }
 
 a {
-  color: hsl(199, 70%, 60%); /* #314e64; */ /* #1772d0; */
+  color: #3466B2; /* #314e64; */ /* #1772d0; */
   text-decoration: none;
 }
 
@@ -97,11 +97,11 @@ b {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
-  /*color: #313164;*/
-  text-decoration: underline;
+  color: #3466B2;
+  /*text-decoration: underline;
   text-decoration-style: solid;
-  -webkit-text-decoration-color: hsl(195, 54%, 49%);
-  text-decoration-color: hsl(195, 54%, 49%); /* #ac715b; */
+  -webkit-text-decoration-color: hsl(0, 0%, 0%);
+  text-decoration-color: hsl(0, 0%, 0%); /* #ac715b; */
 }
 
 papertitle {
