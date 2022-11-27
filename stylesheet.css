@@ -97,7 +97,7 @@ b {
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 22px;
-  color: #3466B2;
+  color: #203380;
   /*text-decoration: underline;
   text-decoration-style: solid;
   -webkit-text-decoration-color: hsl(0, 0%, 0%);
@@ -142,7 +142,7 @@ span.highlight {
 
 span.badge {
   font-size: 13px;
-  background-color: #313164;
+  background-color: #cd3f3f;
   color: #ffffff;
   font-weight: 600;
   padding-right: .4em;
