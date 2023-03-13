@@ -108,10 +108,10 @@ bigger {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
   color: #517dbe;
-  /*text-decoration: underline;
+  text-decoration: underline;
   text-decoration-style: solid;
-  -webkit-text-decoration-color: hsl(0, 0%, 0%);
-  text-decoration-color: hsl(0, 0%, 0%); /* #ac715b; */
+  -webkit-text-decoration-color: #517dbe;
+  text-decoration-color: #517dbe; /* #ac715b; */
 }
 
 papertitle {
